@@ -100,20 +100,19 @@ project-root/
 ### 1. Clone repo
 
 ```bash
-git clone <repo-url>
-cd <project-folder>
+git clone https://github.com/Im-Dun/Nhom2_DaoTienDung_1871020174.git
 ```
 
 ### 2. Cài thư viện
 
 ```bash
-pip install pygame
+python -m pip install -U pygame==2.6.0
 ```
 
 ### 3. Chạy
 
 ```bash
-python main.py
+python src/main.py
 ```
 
 ---
